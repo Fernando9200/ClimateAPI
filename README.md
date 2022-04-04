@@ -1,2 +1,1 @@
 # ClimateAPI
-# ClimateAPI
