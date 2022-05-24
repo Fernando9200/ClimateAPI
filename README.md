@@ -2,7 +2,12 @@
 
 This is an API that provides the developer with a collection of articles on climate change from various news portals.
 
-# Getting Started in Node.js [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+## Endpoints
+
+To access the endpoints of this API, follow the link:
+https://rapidapi.com/provider/6189964/apis/climate10/definition/versions/apiversion_ba838115-4263-455b-9bff-de3b2564aea2/endpoints
+
+## Getting Started in Node.js [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 > Find out how you can get started in Node.js and where you can find answers to questions of any kind.
 
