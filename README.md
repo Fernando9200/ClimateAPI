@@ -30,3 +30,7 @@ To start development, you need to clone the GitHub project in a directory of you
 cd "directory of your choice"
 git clone https://github.com/Fernando9200/ClimateAPI.git
 ```
+
+## Deploy
+
+You can deploy your API using Heroku or any other Cloud Application.
