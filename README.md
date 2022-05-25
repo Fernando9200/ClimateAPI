@@ -1,6 +1,6 @@
 # ClimateAPI
 
-This is an API that provides the developer with a collection of articles on climate change from various news portals.
+This is an API that provides to any developer a collection of articles related to climate change from various news portals.
 
 ## Endpoints
 
